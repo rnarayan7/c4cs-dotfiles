@@ -1,0 +1,1 @@
+/home/roshinan/.bash_profile
