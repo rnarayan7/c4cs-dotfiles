@@ -1,1 +1,6 @@
-/home/roshinan/.ssh/config
+Host caen login.engin.umich.edu
+        HostName login.engin.umich.edu
+        User roshinan
+        ControlMaster auto
+        ControlPath ~/.ssh/_%r@%h:%p
+        ControlPersist 43200

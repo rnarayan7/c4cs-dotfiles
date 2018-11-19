@@ -1,1 +1,1 @@
-/home/roshinan/.bashrc
+PS1="\[\033[32m\]\u@\h:\w\$ "
